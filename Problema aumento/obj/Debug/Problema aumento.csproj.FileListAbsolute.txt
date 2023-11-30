@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\bin\Debug\Problema aumento.exe.config
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\bin\Debug\Problema aumento.exe
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\bin\Debug\Problema aumento.pdb
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\obj\Debug\Problema aumento.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\obj\Debug\Problema aumento.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\obj\Debug\Problema aumento.exe
+C:\temp\ws-vs2019\Problema aumento\Problema aumento\obj\Debug\Problema aumento.pdb
